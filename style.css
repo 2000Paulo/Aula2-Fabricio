@@ -1,0 +1,28 @@
+body{
+    background-image: url(imagem.jpg);
+    
+}
+img{ 
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    pointer-events:visible;
+    margin-left: 40%;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+.insiratext{
+    margin-left: 75%;
+    height: 25px;
+    border-radius: 5px;
+}
+.clica{
+    border-radius: 5px;
+    height: 31px;
+}
+.order{
+    margin-left: 37%;
+}
